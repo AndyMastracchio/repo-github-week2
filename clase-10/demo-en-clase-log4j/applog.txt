@@ -1,0 +1,21 @@
+INFO    2022-05-25 23:00:56,099 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-05-25 23:00:56,102 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-05-25 23:00:56,102 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+ERROR   2022-05-25 23:00:56,103 [main] com.digitalhouse.Main  - La lista es igual a cero 
+java.lang.Exception
+	at com.digitalhouse.logging.ListaPromedio.<init>(ListaPromedio.java:22)
+	at com.digitalhouse.Main.main(Main.java:19)
+INFO    2022-10-26 16:59:32,444 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-10-26 16:59:32,445 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-10-26 16:59:32,445 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+ERROR   2022-10-26 16:59:32,446 [main] com.digitalhouse.Main  - La lista es igual a cero 
+java.lang.Exception
+	at com.digitalhouse.logging.ListaPromedio.<init>(ListaPromedio.java:22)
+	at com.digitalhouse.Main.main(Main.java:19)
+INFO    2022-10-26 21:13:32,636 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-10-26 21:13:32,639 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+INFO    2022-10-26 21:13:32,639 [main] com.digitalhouse.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+ERROR   2022-10-26 21:13:32,640 [main] com.digitalhouse.Main  - La lista es igual a cero 
+java.lang.Exception
+	at com.digitalhouse.logging.ListaPromedio.<init>(ListaPromedio.java:22)
+	at com.digitalhouse.Main.main(Main.java:22)
